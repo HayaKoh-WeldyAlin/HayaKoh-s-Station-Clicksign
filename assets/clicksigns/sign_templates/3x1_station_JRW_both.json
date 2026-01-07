@@ -1,0 +1,234 @@
+{
+  "width": 3,
+  "height": 1,
+  "id": "3x1_station_JRW_{direction}",
+  "name": "駅名標（JR西日本）",
+  "pack": {
+    "id": "hayakoh_additional_sign",
+    "name": "HayaKoh's additional"
+  },
+  "category": "STATION",
+  "author": "HayaKoh",
+  "templateGenerator": {
+    "directions": [
+      {
+        "direction": "both",
+        "arrows": [ "L", "R" ]
+      }
+    ]
+  },
+  "variants": [
+    {
+      "name": "Cobalt Blue",
+      "front": "3x1_station/jrw/{direction}_cobaltblue.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Cyan",
+      "front": "3x1_station/jrw/{direction}_cyan.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Pickle",
+      "front": "3x1_station/jrw/{direction}_pickle.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Brown",
+      "front": "3x1_station/jrw/{direction}_brown.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Lavender",
+      "front": "3x1_station/jrw/{direction}_lavender.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Blue Grey",
+      "front": "3x1_station/jrw/{direction}_bluegrey.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Yellow",
+      "front": "3x1_station/jrw/{direction}_yellow.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 2697513 ]
+    },
+    {
+      "name": "Pink",
+      "front": "3x1_station/jrw/{direction}_pink.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Turquoise",
+      "front": "3x1_station/jrw/{direction}_turquoise.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Wine Red",
+      "front": "3x1_station/jrw/{direction}_winered.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Scarlet",
+      "front": "3x1_station/jrw/{direction}_scarlet.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Sunflower",
+      "front": "3x1_station/jrw/{direction}_sunflower.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 2697513 ]
+    },
+    {
+      "name": "Vermillion-1",
+      "front": "3x1_station/jrw/{direction}_vermillion1.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Vermillion-2",
+      "front": "3x1_station/jrw/{direction}_vermillion2.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 13684944, 13684944 ]
+    },
+    {
+      "name": "Navy",
+      "front": "3x1_station/jrw/{direction}_navy.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Green-1",
+      "front": "3x1_station/jrw/{direction}_green1.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Green-2",
+      "front": "3x1_station/jrw/{direction}_green2.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 2697513 ]
+    },
+    {
+      "name": "Orange",
+      "front": "3x1_station/jrw/{direction}_orange.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 2697513 ]
+    },
+    {
+      "name": "Peach",
+      "front": "3x1_station/jrw/{direction}_peach.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 2697513 ]
+    },
+    {
+      "name": "Carmine",
+      "front": "3x1_station/jrw/{direction}_carmine.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Purple",
+      "front": "3x1_station/jrw/{direction}_purple.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Aquamarine",
+      "front": "3x1_station/jrw/{direction}_aquamarine.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 2697513 ]
+    },
+    {
+      "name": "Aqua",
+      "front": "3x1_station/jrw/{direction}_aqua.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 2697513 ]
+    },
+    {
+      "name": "Lime",
+      "front": "3x1_station/jrw/{direction}_lime.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 2697513 ]
+    },
+    {
+      "name": "Olive",
+      "front": "3x1_station/jrw/{direction}_olive.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Grey",
+      "front": "3x1_station/jrw/{direction}_grey.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    }
+  ],
+  "textPositions": [
+      {
+        "x": 1,
+        "y": 8,
+        "alignment": "CENTER",
+        "maxWidth": 46,
+        "scale": 2,
+        "colorIndex": 0
+      },
+      {
+        "x": 1,
+        "y": 6,
+        "alignment": "CENTER",
+        "maxWidth": 46,
+        "scale": 0.75,
+        "colorIndex": 0
+      },
+      {
+        "x": 1,
+        "y": 4,
+        "alignment": "CENTER",
+        "maxWidth": 46,
+        "scale": 0.5,
+        "colorIndex": 0
+      },
+      {
+        "x": 4,
+        "y": 1.5,
+        "maxWidth": 18,
+        "scale": 0.5,
+        "colorIndex": 1
+      },
+      {
+        "x": 26,
+        "y": 1.5,
+        "alignment": "RIGHT",
+        "maxWidth": 18,
+        "scale": 0.5,
+        "colorIndex": 1
+      },
+      {
+        "x": 4,
+        "y": 0.375,
+        "maxWidth": 18,
+        "scale": 0.375,
+        "colorIndex": 1
+      },
+      {
+        "x": 26,
+        "y": 0.375,
+        "alignment": "RIGHT",
+        "maxWidth": 18,
+        "scale": 0.375,
+        "colorIndex": 1
+      }
+  ]
+}
