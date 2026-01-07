@@ -1,0 +1,2 @@
+# HayaKoh-s-Station-Clicksign
+MinecraftのClicksignMod用の駅看板を追加する拡張リソースパック
