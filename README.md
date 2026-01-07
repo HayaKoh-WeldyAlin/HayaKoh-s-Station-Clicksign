@@ -27,8 +27,8 @@ Please note that all of the following text is also written in Japanese.<br>
 ## 使用例
 この他の画像はGalleryからご覧いただけます。<br>
 ※撮影時に Modern UI を使用しています。フォントは使用環境により異なります。
-<img width="1920" height="1057" alt="2026-01-07_16 35 06" src="https://github.com/user-attachments/assets/c6db9081-8271-440a-bdb0-ca37af98ae15" />
-<img width="1920" height="1057" alt="2026-01-07_16 40 50" src="https://github.com/user-attachments/assets/477e81d4-595b-4e8b-8517-cadba25be42b" />
+<img width="1920" height="1057" alt="2026-01-07_16 35 06" src="https://raw.githubusercontent.com/HayaKoh-WeldyAlin/HayaKoh-s-Station-Clicksign/refs/heads/main/Gallery/JRW-Katsuragawa.png" />
+<img width="1920" height="1057" alt="2026-01-07_16 40 50" src="https://raw.githubusercontent.com/HayaKoh-WeldyAlin/HayaKoh-s-Station-Clicksign/refs/heads/main/Gallery/JRW-Tennoji.png" />
 
 ## リクエスト
 あまり積極的な対応ができない可能性があります。
