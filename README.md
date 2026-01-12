@@ -1,4 +1,4 @@
-# HayaKoh-s-Station-Clicksign
+# HayaKoh's Station Clicksign
 MinecraftのClickSignsMod用の駅看板を追加する拡張リソースパック
 
 ## ⚠注意 Attention⚠
@@ -33,5 +33,4 @@ Please note that all of the following text is also written in Japanese.<br>
 ## リクエスト
 あまり積極的な対応ができない可能性があります。
 GuithubのIssuesかPull requestsに投げていただければ対応する場合があるかもしれません。
-確率的にはPull requestsの方が確実です。
-画像だけでも作成できる方がもしいらっしゃれば追加作業が捗るかもしれません。
+多言語対応は、日本語向けの看板を追加するという性質上ほぼ不可能なため、受け付けていません。
