@@ -121,7 +121,7 @@
       "colors": [ 2697513, 2697513 ]
     },
     {
-      "name": "Orange",
+      "name": "Orange-1",
       "front": "3x1_station/jrw/{direction}_orange.png",
       "back": "backs/3x1_back.png",
       "colors": [ 2697513, 2697513 ]
@@ -171,6 +171,12 @@
     {
       "name": "Grey",
       "front": "3x1_station/jrw/{direction}_grey.png",
+      "back": "backs/3x1_back.png",
+      "colors": [ 2697513, 13684944 ]
+    },
+    {
+      "name": "Orange-2",
+      "front": "3x1_station/jrw/{direction}_orange2.png",
       "back": "backs/3x1_back.png",
       "colors": [ 2697513, 13684944 ]
     }
