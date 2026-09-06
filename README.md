@@ -1,6 +1,8 @@
 # HayaKoh's Station Clicksign
 MinecraftのClickSignsMod用の駅看板を追加する拡張リソースパック
 
+Modrinthページは[こちら](https://modrinth.com/resourcepack/hayakohs-station-clicksign)
+
 ## ⚠注意 Attention⚠
 This resource pack has been created for Japanese users, so it may be difficult to use in other languages.
 Please only use this resource pack if you can accept this limitation.<br>
