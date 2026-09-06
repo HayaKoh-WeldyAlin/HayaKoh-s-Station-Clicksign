@@ -189,7 +189,7 @@
         "y": 6,
         "alignment": "CENTER",
         "maxWidth": 30,
-        "scale": 0.5,
+        "scale": 0.625,
         "colorIndex": 0
       },
       {
@@ -202,31 +202,31 @@
       },
       {
         "x": 4,
-        "y": 1.5,
-        "maxWidth": 10,
-        "scale": 0.5,
+        "y": 1.75,
+        "maxWidth": 12,
+        "scale": 0.4375,
         "colorIndex": 1
       },
       {
-        "x": 18,
-        "y": 1.5,
+        "x": 16,
+        "y": 1.75,
         "alignment": "RIGHT",
-        "maxWidth": 10,
-        "scale": 0.5,
+        "maxWidth": 12,
+        "scale": 0.4375,
         "colorIndex": 1
       },
       {
         "x": 4,
-        "y": 0.375,
-        "maxWidth": 10,
+        "y": 0.5,
+        "maxWidth": 12,
         "scale": 0.375,
         "colorIndex": 1
       },
       {
-        "x": 18,
-        "y": 0.375,
+        "x": 16,
+        "y": 0.5,
         "alignment": "RIGHT",
-        "maxWidth": 10,
+        "maxWidth": 12,
         "scale": 0.375,
         "colorIndex": 1
       }
