@@ -1,7 +1,7 @@
 {
   "width": 2,
   "height": 1,
-  "id": "3x1_station_JRW_{direction}",
+  "id": "2x1_station_JRW_{direction}",
   "name": "駅名標（JR西日本）",
   "pack": {
     "id": "hayakoh_additional_sign",
