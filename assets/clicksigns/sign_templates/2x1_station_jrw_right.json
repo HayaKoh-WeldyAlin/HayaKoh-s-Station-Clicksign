@@ -148,7 +148,7 @@
       "name": "Aquamarine",
       "front": "2x1_station/jrw/{direction}_aquamarine.png",
       "back": "backs/2x1_back.png",
-      "colors": [ 2697513, 2697513 ]
+      "colors": [ 2697513, 13684944 ]
     },
     {
       "name": "Aqua",
