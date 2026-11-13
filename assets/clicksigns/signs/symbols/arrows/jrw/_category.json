@@ -1,0 +1,14 @@
+{
+  "name": "矢印（JR西日本）",
+  "priority": 10,
+  "default": {
+    "texture": {
+      "processors": [
+        {
+          "type": "replaceColor",
+          "to": "foreground"
+        }
+      ]
+    }
+  }
+}

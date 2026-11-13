@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "name": "JR西日本〈副駅名あり〉",
+    "author": "HayaKoh"
+  },
+  "sign": {
+    "front": {
+      "base": "clicksigns:signs/tilesets/jrw/cobaltblue.png",
+      "processors": [
+        {
+          "type": "tiler",
+          "cornerSize": 3,
+          "outputWidth": 48,
+          "outputHeight": 16
+        }
+      ]
+    },
+    "back": {
+      "base": "clicksigns:signs/tilesets/backs/back.png",
+      "processors": [
+        {
+          "type": "tiler",
+          "cornerSize": 4,
+          "outputWidth": 48,
+          "outputHeight": 16
+        }
+      ]
+    },
+    "elements": [
+      {
+        "type": "text",
+        "x": 24,
+        "y": 12,
+        "alignment": "CENTER",
+        "scale": 1.7777778,
+        "text": "桂川",
+        "style": {
+          "color": "foreground",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 24,
+        "y": 8,
+        "alignment": "CENTER",
+        "scale": 0.6666667,
+        "text": "〈久世〉",
+        "style": {
+          "color": "foreground",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 24,
+        "y": 6,
+        "alignment": "CENTER",
+        "scale": 0.5555556,
+        "text": "かつらがわ  Katsuragawa",
+        "style": {
+          "color": "foreground",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "symbol",
+        "x": 3,
+        "y": 2,
+        "alignment": "CENTER",
+        "symbol": "clicksigns:signs/symbols/arrows/jrw/left.png",
+        "texture": {
+          "base": "clicksigns:signs/symbols/arrows/jrw/left.png",
+          "processors": [
+            {
+              "type": "replaceColor",
+              "to": "white"
+            }
+          ]
+        },
+        "scale": 0.3
+      },
+      {
+        "type": "text",
+        "x": 6,
+        "y": 2,
+        "alignment": "TOP_RIGHT",
+        "scale": 0.44444445,
+        "text": "にしおおじ",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 6,
+        "y": 1,
+        "alignment": "CENTER_RIGHT",
+        "scale": 0.33333334,
+        "text": "Nishiōji",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 47,
+        "y": 2,
+        "alignment": "TOP_LEFT",
+        "scale": 0.44444445,
+        "text": "むこうまち",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 47,
+        "y": 1,
+        "alignment": "CENTER_LEFT",
+        "scale": 0.33333334,
+        "text": "Mukōmachi",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      }
+    ],
+    "alignment": "CENTER"
+  }
+}
