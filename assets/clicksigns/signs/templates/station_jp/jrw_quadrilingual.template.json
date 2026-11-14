@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "name": "JR西日本（4言語対応）",
+    "author": "HayaKoh"
+  },
+  "sign": {
+    "front": {
+      "base": "clicksigns:signs/tilesets/jrw4/cobaltblue.png",
+      "processors": [
+        {
+          "type": "tiler",
+          "cornerSize": 3,
+          "outputWidth": 48,
+          "outputHeight": 16
+        }
+      ]
+    },
+    "back": {
+      "base": "clicksigns:signs/tilesets/backs/back.png",
+      "processors": [
+        {
+          "type": "tiler",
+          "cornerSize": 4,
+          "outputWidth": 48,
+          "outputHeight": 16
+        }
+      ]
+    },
+    "elements": [
+      {
+        "type": "text",
+        "x": 24,
+        "y": 12,
+        "alignment": "CENTER",
+        "scale": 2.0,
+        "text": "京  都",
+        "style": {
+          "color": "foreground",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 24,
+        "y": 7,
+        "alignment": "CENTER",
+        "scale": 0.6666667,
+        "text": "きょうと  Kyōto  교토",
+        "style": {
+          "color": "foreground",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "symbol",
+        "x": 3,
+        "y": 3,
+        "alignment": "CENTER",
+        "symbol": "clicksigns:signs/symbols/arrows/jrw/left.png",
+        "texture": {
+          "base": "clicksigns:signs/symbols/arrows/jrw/left.png",
+          "processors": [
+            {
+              "type": "replaceColor",
+              "to": "white"
+            }
+          ]
+        },
+        "scale": 0.3
+      },
+      {
+        "type": "symbol",
+        "x": 45,
+        "y": 3,
+        "alignment": "CENTER",
+        "symbol": "clicksigns:signs/symbols/arrows/jrw/right.png",
+        "texture": {
+          "base": "clicksigns:signs/symbols/arrows/jrw/right.png",
+          "processors": [
+            {
+              "type": "replaceColor",
+              "to": "white"
+            }
+          ]
+        },
+        "scale": 0.3
+      },
+      {
+        "type": "text",
+        "x": 6,
+        "y": 3,
+        "alignment": "TOP_RIGHT",
+        "scale": 0.44444445,
+        "text": "にしおおじ",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 6,
+        "y": 2,
+        "alignment": "TOP_RIGHT",
+        "scale": 0.33333334,
+        "text": "Nishiōji",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 6,
+        "y": 2,
+        "alignment": "BOTTOM_RIGHT",
+        "scale": 0.33333334,
+        "text": "니시오지  西大路",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 42,
+        "y": 3,
+        "alignment": "TOP_LEFT",
+        "scale": 0.44444445,
+        "text": "やましな",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 42,
+        "y": 2,
+        "alignment": "BOTTOM_LEFT",
+        "scale": 0.33333334,
+        "text": "야마시나  山科",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 42,
+        "y": 2,
+        "alignment": "TOP_LEFT",
+        "scale": 0.33333334,
+        "text": "Yamashina",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "symbol",
+        "x": 45,
+        "y": 13,
+        "alignment": "CENTER",
+        "symbol": "clicksigns:signs/symbols/shapes/square.png",
+        "texture": {
+          "base": "clicksigns:signs/symbols/shapes/square.png",
+          "processors": [
+            {
+              "type": "replaceColor",
+              "to": "#0071BF"
+            }
+          ]
+        },
+        "scale": 0.4
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 13,
+        "alignment": "CENTER",
+        "scale": 0.8888889,
+        "text": "京",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      }
+    ],
+    "alignment": "CENTER"
+  }
+}
