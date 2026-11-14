@@ -20,17 +20,16 @@ Please note that all of the following text is also written in Japanese.<br>
 
 ## 特徴
 日本国内の駅名標をMinecraft内で再現することを目的に作成しました。
-現在は以下の1種類（矢印差分などを除く）が利用できます。
+現在は以下の1種類が利用できます。
+なお、以下に記載がない場合でも以下のタイルを流用して別事業者の駅名標が作れる場合があります。
 
 - JR西日本（矢印、路線色の差分あり）
-
-ただし、文字の記入後に別種の駅名標に切り替えた場合は表示崩れが生じる場合があります。
 
 ## 使用例
 この他の画像はGalleryからご覧いただけます。<br>
 ※撮影時に Modern UI を使用しています。フォントは使用環境により異なります。
-<img alt="JR西桂川駅" src="https://github.com/HayaKoh-WeldyAlin/HayaKoh-s-Station-Clicksign/blob/main/Gallery/JRW-Katsuragawa.png" />
-<img alt="JR西天王寺駅" src="https://github.com/HayaKoh-WeldyAlin/HayaKoh-s-Station-Clicksign/blob/main/Gallery/JRW-Tennoji.png" />
+<img alt="JR西天王寺駅" src="https://github.com/HayaKoh-WeldyAlin/HayaKoh-s-Station-Clicksign/blob/main/Gallery/jrw.png" />
+<img alt="ハピライン福井駅" src="https://github.com/HayaKoh-WeldyAlin/HayaKoh-s-Station-Clicksign/blob/main/Gallery/hapiline.png" />
 
 ## リクエスト
 あまり積極的な対応ができない可能性があります。
