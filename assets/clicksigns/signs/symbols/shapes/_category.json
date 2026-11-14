@@ -1,0 +1,14 @@
+{
+  "name": "Shapes",
+  "priority": 10,
+  "default": {
+    "texture": {
+      "processors": [
+        {
+          "type": "replaceColor",
+          "to": "foreground"
+        }
+      ]
+    }
+  }
+}
