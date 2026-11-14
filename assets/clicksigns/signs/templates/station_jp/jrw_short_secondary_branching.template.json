@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "name": "JR西日本（短形・副駅名・分岐）",
+    "author": "HayaKoh"
+  },
+  "sign": {
+    "front": {
+      "base": "clicksigns:signs/tilesets/jrw4/grey.png",
+      "processors": [
+        {
+          "type": "tiler",
+          "cornerSize": 3,
+          "outputWidth": 32,
+          "outputHeight": 16
+        }
+      ]
+    },
+    "back": {
+      "base": "clicksigns:signs/tilesets/backs/back.png",
+      "processors": [
+        {
+          "type": "tiler",
+          "cornerSize": 4,
+          "outputWidth": 32,
+          "outputHeight": 16
+        }
+      ]
+    },
+    "elements": [
+      {
+        "type": "text",
+        "x": 16,
+        "y": 14,
+        "alignment": "CENTER",
+        "scale": 0.44444445,
+        "text": "JEANS STATION",
+        "style": {
+          "color": "foreground",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 16,
+        "y": 11,
+        "alignment": "CENTER",
+        "scale": 1.6666666,
+        "text": "児 島",
+        "style": {
+          "color": "foreground",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 16,
+        "y": 7,
+        "alignment": "CENTER",
+        "scale": 0.5555556,
+        "text": "こじま  Kojima",
+        "style": {
+          "color": "foreground",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "symbol",
+        "x": 3,
+        "y": 4,
+        "alignment": "BOTTOM_CENTER",
+        "symbol": "clicksigns:signs/symbols/arrows/jrw/left.png",
+        "texture": {
+          "base": "clicksigns:signs/symbols/arrows/jrw/left.png",
+          "processors": [
+            {
+              "type": "replaceColor",
+              "to": "white"
+            }
+          ]
+        },
+        "scale": 0.3
+      },
+      {
+        "type": "text",
+        "x": 6,
+        "y": 3,
+        "alignment": "CENTER_RIGHT",
+        "scale": 0.5555556,
+        "text": "かみのちょう",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 6,
+        "y": 2,
+        "alignment": "BOTTOM_RIGHT",
+        "scale": 0.44444445,
+        "text": "Kaminochō",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 26,
+        "y": 5,
+        "alignment": "BOTTOM_RIGHT",
+        "scale": 0.44444445,
+        "text": "さかいで",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 2,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 26,
+        "y": 3,
+        "alignment": "CENTER_RIGHT",
+        "scale": 0.33333334,
+        "text": "Sakaide",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 26,
+        "y": 1,
+        "alignment": "TOP_RIGHT",
+        "scale": 0.44444445,
+        "text": "うたづ",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      },
+      {
+        "type": "text",
+        "x": 26,
+        "y": 0,
+        "alignment": "TOP_RIGHT",
+        "scale": 0.33333334,
+        "text": "Utazu",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
+      }
+    ],
+    "alignment": "CENTER"
+  }
+}
