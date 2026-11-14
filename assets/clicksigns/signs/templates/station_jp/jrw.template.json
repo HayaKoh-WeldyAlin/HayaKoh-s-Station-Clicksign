@@ -170,8 +170,7 @@
           "paddingX": 2,
           "paddingY": 1,
           "textAlignment": 1,
-          "lineGap": 0,
-          "bold": true
+          "lineGap": 0
         }
       }
     ],
