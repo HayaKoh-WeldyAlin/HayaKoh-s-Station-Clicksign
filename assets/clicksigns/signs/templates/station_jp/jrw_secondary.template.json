@@ -155,6 +155,39 @@
           "textAlignment": 1,
           "lineGap": 0
         }
+      },
+      {
+        "type": "symbol",
+        "x": 45,
+        "y": 13,
+        "alignment": "CENTER",
+        "symbol": "clicksigns:signs/symbols/shapes/square.png",
+        "texture": {
+          "base": "clicksigns:signs/symbols/shapes/square.png",
+          "processors": [
+            {
+              "type": "replaceColor",
+              "to": "#0071BF"
+            }
+          ]
+        },
+        "scale": 0.4
+      },
+      {
+        "type": "text",
+        "x": 45,
+        "y": 13,
+        "alignment": "CENTER",
+        "scale": 0.8888889,
+        "text": "京",
+        "style": {
+          "color": "white",
+          "outlineWidth": 1,
+          "paddingX": 2,
+          "paddingY": 1,
+          "textAlignment": 1,
+          "lineGap": 0
+        }
       }
     ],
     "alignment": "CENTER"

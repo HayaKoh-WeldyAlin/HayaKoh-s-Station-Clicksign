@@ -165,7 +165,7 @@
         "scale": 0.8888889,
         "text": "阪",
         "style": {
-          "color": "foreground",
+          "color": "white",
           "outlineWidth": 1,
           "paddingX": 2,
           "paddingY": 1,
