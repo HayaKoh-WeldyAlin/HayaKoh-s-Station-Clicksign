@@ -1,0 +1,11 @@
+{
+  "defaultScale": 0.4,
+  "texture": {
+    "processors": [
+      {
+        "type": "replaceColor",
+        "to": "foreground"
+      }
+    ]
+  }
+}
