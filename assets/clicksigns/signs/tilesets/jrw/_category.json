@@ -1,7 +1,7 @@
 {
   "name": "JR西日本",
   "default": {
-    "cornerSize": 3,
+    "cornerSize": 4,
     "colors": {
       "foreground": "black"
     }
