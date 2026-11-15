@@ -2,6 +2,7 @@
   "name": "矢印（JR西日本）",
   "priority": 10,
   "default": {
+    "defaultScale": 0.3,
     "texture": {
       "processors": [
         {
