@@ -1,7 +1,7 @@
 {
   "name": "JR西日本（四言語表示用）",
   "default": {
-    "cornerSize": 3,
+    "cornerSize": 5,
     "colors": {
       "foreground": "black"
     }
