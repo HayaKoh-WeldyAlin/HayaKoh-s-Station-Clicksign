@@ -1,6 +1,5 @@
 {
   "name": "Shapes",
-  "priority": 10,
   "default": {
     "texture": {
       "processors": [
